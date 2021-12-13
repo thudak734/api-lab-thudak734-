@@ -1,0 +1,75 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+   
+    margin: 80px;
+}
+
+.box{
+    border-radius: 30px;
+    border: solid 2px;
+}
+
+#jsreddit{
+    padding: 50px;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    width: 50%;
+    background-color: rgb(255, 240, 213);
+    border-radius: 30px;
+    border: solid 2px;
+    padding: 10px;
+    box-shadow: 10px 10px;
+}
+
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    background-color: rgb(211, 237, 253);
+    border: solid 2px;
+    margin: 30px;
+    border-radius: 30px;
+    padding: 10%;
+    box-shadow: 10px 10px;
+}
+
+h3{
+    display: flex;
+    justify-content: left;
+    background-color: lightskyblue;
+    border-radius: 30px;
+    border: solid 2px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width:fit-content;
+
+}
+img{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    border-radius: 30px;
+    border: solid 2px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    max-height: 25%;
+    max-width:25%;
+
+}
+
+a{
+    display: flex;
+    justify-content: left;
+    /* background-color: rgb(255, 240, 213);
+    border-radius: 30px;
+    border: solid 2px;
+    padding: 10px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: auto; */
+
+}
